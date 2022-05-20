@@ -1,0 +1,31 @@
+#head{
+    color: antiquewhite;
+}
+
+#cont{
+    padding-top: 15px;    
+}
+
+
+.button-wrapper{
+    display:flex;
+    flex-direction: row;
+    height: auto;
+    width: 100%;
+    justify-content: flex-end;
+    
+}
+
+.btn-primary-login{
+    margin: 10px 0px 0px 10px;
+    width: 100px;
+}
+
+.btn-Singup-wrap{
+    display: flex;
+
+}
+
+.btn-Singup-wrap{
+    justify-content: end;
+}
